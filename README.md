@@ -67,7 +67,8 @@ end
 endmodule
 ~~~
 
-# OUTPUT
-![image](https://github.com/padhmapriya06/DIGI_LOCK/assets/160568779/60a5f6eb-53df-4cfd-b339-95152ae44682)
+# OUTPUT:
+![image](https://github.com/TARUN-E-A/DIGI_LOCK/assets/163630871/d371729f-f462-4ad7-8891-fcc77ad20368)
+
 # RESULT
 Thus the verilog program for digital lock has been simulated and verified successfully.
